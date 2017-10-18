@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource 
+	  auth="Container" 
+	  driverClassName="com.mysql.jdbc.Driver" 
+	  factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory" 
+	  maxWait="5000" 
+	  name="jdbc/basicjsp" 
+	  password="jsppass" 
+	  type="javax.sql.DataSource" 
+	  url="jdbc:mysql://localhost:3306/basicjsp" 
+	  username="jspid"
+	/>
+</Context>

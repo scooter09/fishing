@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+body {
+	font-size: 12px; 
+	text-align: center;
+}
+
+table {
+	font-size: 12px;
+	text-align: center;
+	width: 800px;
+	border: 1px solid black;
+	margin: 0 auto;
+	padding-rigth: 20px;
+}
+.list_table {
+	width: 600px;
+	border-collapse: collaps;
+}
+.account_table {
+	width: 400px;
+}
+.account_table input {
+	margin-top: 5px;
+}
+table.update_table {
+	width: 600px;
+}
+select {
+	font-size: 12px; 
+}
+
+form {
+	font-size: 12px; 
+}
+
+p{
+	font-weight: bold;
+}
